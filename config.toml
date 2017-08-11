@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "PEO"
+baseURL = "https:\/\/widgets.peo.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758904"
+subfolder = ""
+cookiedomain = "peo.com"
